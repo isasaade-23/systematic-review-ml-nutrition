@@ -60,8 +60,6 @@ This repository carries the extraction files, the consensus risk-of-bias assessm
 derived tables and figures. Working material of the review process, including per-assessor
 worksheets and internal reconciliation files, is not published here.
 
-files above and retained only for provenance.
-
 ## Citation
 
 Silva IV, Assis-Souza LG, Soares MQ, Hallal PC, Chiavegatto Filho ADP. Machine learning for
