@@ -1,5 +1,0 @@
-﻿desfecho;AUC_N;AUC_mediana;AUC_IQR;Accuracy_N;Accuracy_mediana;Accuracy_IQR;F1-Score_N;F1-Score_mediana;F1-Score_IQR;combinacoes
-stunting;12;0.86;0.75-1.00;30;0.88;0.80-0.99;23;0.89;0.71-0.98;30
-obesity;5;0.79;0.78-0.81;3;0.87;0.77-0.92;1;0.45;0.45-0.45;6
-overweight;2;0.71;0.67-0.76;1;0.89;0.89-0.89;0;;;2
-overweight/obesity (combinado);1;0.62;0.62-0.62;0;;;0;;;1

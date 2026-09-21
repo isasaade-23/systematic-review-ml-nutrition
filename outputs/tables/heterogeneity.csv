@@ -1,0 +1,5 @@
+outcome_family;combinations;N_min;N_max;N_median;prev_min;prev_max;countries;pct_indonesia;validation_types
+obesity;6;5983;244053;22853.0;15.5;50.0;3;0;2
+overweight;2;5983;18503;12243.0;17.6;17.6;2;0;1
+overweight/obesity (combined);1;6801;6801;6801.0;;;1;0;1
+stunting;30;114;121000;6677.0;0.7;51.6;11;57;4

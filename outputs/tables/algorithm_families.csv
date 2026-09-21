@@ -1,0 +1,12 @@
+algorithm_family;rows_in_extraction;combinations_as_best_model;studies_using
+boosting;50;9;20
+random forest/bagging;48;14;26
+regression/linear;43;3;18
+SVM;25;3;12
+KNN;18;2;12
+decision tree;15;1;9
+shallow neural network;15;3;10
+naive bayes;12;0;8
+deep learning;5;1;3
+heterogeneous ensemble (stacking/voting);5;3;4
+gaussian process;1;0;1

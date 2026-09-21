@@ -1,0 +1,39 @@
+Study ID;Year;Divergences;Of which affecting the synthesis;Model purpose after verification;Outcome-dimension anthropometry among predictors
+AA_01;2024;3;0;diagnostic classification (nowcasting);True
+AA_02;2024;2;0;diagnostic classification (nowcasting);True
+AA_03;2024;3;0;diagnostic classification (nowcasting);True
+AA_04;2024;2;0;diagnostic classification (nowcasting);True
+AA_05;2021;2;0;diagnostic classification (nowcasting);False
+AA_06;2024;2;0;diagnostic classification (nowcasting);False
+AA_07;2025;1;0;diagnostic classification (nowcasting);False
+AA_10;2021;5;0;diagnostic classification (nowcasting);True
+AA_13;2024;5;0;diagnostic classification (nowcasting) - moreover, the label is deterministically derived from the predictors themselves;True
+AA_16;2025;1;0;diagnostic classification (nowcasting);False
+AA_19;2024;6;0;diagnostic classification (nowcasting);True
+AA_22;2024;2;0;diagnostic classification (nowcasting);True
+AA_23;2024;4;0;diagnostic classification (nowcasting);True
+AA_24;2024;4;0;diagnostic classification (nowcasting);True
+AA_26;2024;2;0;diagnostic classification (nowcasting);True
+AA_28;2024;1;0;diagnostic classification (nowcasting);True
+AA_31;2021;0;0;prospective prediction;True
+AA_35;2024;2;0;diagnostic classification (nowcasting);True
+AA_36;2024;6;1;diagnostic classification (nowcasting);False
+AA_37;2024;5;0;diagnostic classification (nowcasting);True
+AA_39;2025;1;0;diagnostic classification (nowcasting);True
+AA_40;2025;5;0;diagnostic classification (nowcasting);True
+AA_41;2024;2;0;diagnostic classification (nowcasting) - at the limit, algebraic reconstruction of the label;True
+AA_44;2024;6;1;"diagnostic classification (nowcasting) - predictors concurrent with the outcome, with immediate prior history; NO prediction horizon is declared";False
+AA_45;2025;1;0;diagnostic classification (nowcasting);False
+AA_46;2022;3;0;diagnostic classification (nowcasting);True
+AA_47;2023;2;0;diagnostic classification (nowcasting);True
+AA_50;2021;4;0;prospective prediction;True
+AA_54;2025;3;0;mixed;False
+AA_55;2025;2;0;diagnostic classification (nowcasting);False
+AA_56;2025;4;0;diagnostic classification (nowcasting);False
+AA_57;2025;3;0;diagnostic classification (nowcasting);True
+AA_58;2025;5;0;diagnostic classification (nowcasting);False
+AA_59;2024;3;0;diagnostic classification (nowcasting);False
+AA_60;2023;1;0;diagnostic classification (nowcasting);False
+AA_61;2023;3;0;diagnostic classification (nowcasting);False
+AA_62;2022;1;0;diagnostic classification (nowcasting);False
+AA_63;2024;4;0;prospective prediction;True
