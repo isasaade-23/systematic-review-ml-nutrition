@@ -1,0 +1,38 @@
+﻿ID;First Author;Year;pais;fonte_dados;N (sample);Age (months);Setting
+AA_01;Berrouyne;2024;Morocco;inquerito populacional (DHS/MICS/nacional);5983;0-59;Mixed
+AA_02;Anku;2024;Ghana;inquerito populacional (DHS/MICS/nacional);8564;0-59;Mixed
+AA_03;Janawisuta;2024;Indonesia;servico de saude local (registros de rotina);6677;"NR (artigo diz apenas 'toddlers'/under-five; faixa etaria explicita nao reportada; exemplos da Table I: 2,4 a 58,4 meses)";Community health center (Bojongsoang Community Health Center, routine growth monitoring)
+AA_04;Kanz;2024;Indonesia;dataset aberto (Kaggle/nao especificado);121000;0-60;Not specified
+AA_05;Rahman, S. M. Jubaidur;2021;Bangladesh;inquerito populacional (DHS/MICS/nacional);7079;0-59;Mixed
+AA_06;Kupek;2024;Brazil;inquerito escolar;6801;84-132;Urban
+AA_07;Chen (Kening Chen);2025;China;inquerito escolar;18503;36-168;Mixed
+AA_13;Hariguna;2024;Indonesia;dataset aberto (Kaggle/nao especificado);121000;0-60;Not specified
+AA_16;Fogarty;2025;Mexico;inquerito populacional (DHS/MICS/nacional);20803;0-59;Mixed
+AA_19;Pramana (A.A.G. Yogi Pramana);2024;Indonesia;servico de saude local (registros de rotina);752;0-60;Not specified
+AA_22;Prabiantissa;2024;Indonesia;servico de saude local (registros de rotina);415;0-60;Urban
+AA_23;Shevaldo;2024;Indonesia;servico de saude local (registros de rotina);7507;0-60;Community health center (Bojongsoang Community Health Center, Bandung, Indonesia) — routine growth-monitoring measurements
+AA_24;Berrouyne;2024;Morocco;inquerito populacional (DHS/MICS/nacional);5983;0-59;Mixed
+AA_26;Muhammad Ghiyaats Daffa;2024;Indonesia;servico de saude local (registros de rotina);6677;"NR (amostra descrita apenas como 'toddlers'/criancas menores de 5 anos; nenhuma faixa etaria numerica e reportada no texto; o boxplot de Age na Fig. 2 tem eixo que vai de 0 a ~360 com unidade nao declarada, incompativel com 0-60 meses)";Community health center (Bojongsoang Community Health Center, Indonesia) — registros de monitoramento de crescimento de rotina
+AA_28;Khoirunnisa;2024;Indonesia;servico de saude local (registros de rotina);2255;0-60;Not specified
+AA_31;Pang;2021;USA;registro eletronico de saude (EHR);27203;"0-84 (predictors from 0-24 months; outcome assessed >24 to 84 months)";EHR (Pediatric Big Data repository, Children's Hospital of Philadelphia, 2009-2017)
+AA_35;Fannany;2024;Indonesia;servico de saude local (registros de rotina);6677;Not specified;"Community health center (Bojongsoang Community Health Center); routine health records of toddlers"
+AA_36;Erda;2024;Indonesia;inquerito populacional (DHS/MICS/nacional);86365;0-59;Not specified
+AA_37;Kani;2024;Indonesia;servico de saude local (registros de rotina);3787;0-60;"Community health center (Bandarharjo Health Center, Central Java, Indonesia); routine toddler growth-monitoring records"
+AA_39;Elnanda;2025;Indonesia;servico de saude local (registros de rotina);8835;"NR (participantes descritos apenas como 'toddlers'/children under five; faixa etaria explicita nao reportada)";Karya Jaya Health Center (centro de saude local), Indonesia — registros rotineiros de medicao de criancas
+AA_40;Abdurrahman;2025;Indonesia;servico de saude local (registros de rotina);3000;0-60;"Community health center (Puskesmas Karyajaya), Palembang area, South Sumatra, Indonesia; routine toddler physical measurement records"
+AA_41;Alita;2024;Indonesia;dataset aberto (Kaggle/nao especificado);121000;0-60;Not specified
+AA_44;Campbell;2024;USA;registro eletronico de saude (EHR);9554;24-216;Urban
+AA_45;Tamanna;2025;Bangladesh;inquerito populacional (DHS/MICS/nacional);7910;0-59;Mixed
+AA_46;Hakimah;2022;Indonesia;servico de saude local (registros de rotina);288;0-60;Urban
+AA_47;Sasmita;2023;Indonesia;servico de saude local (registros de rotina);114;0-60;"Semarang, Indonesia (survey SSGI); urban/rural NR — o texto nunca caracteriza o setting como urbano"
+AA_50;Zare;2021;USA;inquerito escolar;244053;60-120;Mixed
+AA_54;Azriani;2025;Indonesia;painel longitudinal domiciliar;5093;"24-35 (outcome assessed; predictors from newborn/birth period)";Indonesian Family Life Survey (IFLS) open database, waves 2-5 (1997, 2000, 2007, 2014)
+AA_55;Mgomezulu;2025;Malawi;inquerito populacional (DHS/MICS/nacional);15638;"0-59 (under-five children; exact months NR)";"World Bank LSMS-ISA 2019/20 nationally representative household survey (National Statistics Office, Malawi; rural and urban)"
+AA_56;Saleem;2025;Pakistan;inquerito populacional (DHS/MICS/nacional);4141;0-59 (children under five);Pakistan Demographic and Health Survey (PDHS) 2017-2018, nationally representative cross-sectional household survey
+AA_57;Ayele;2025;Ethiopia;inquerito populacional (DHS/MICS/nacional);18451;0-59 (under five);Ethiopian Demographic and Health Surveys (EDHS) 2011 and 2016
+AA_58;Ndagijimana;2025;Rwanda;inquerito populacional (DHS/MICS/nacional);3814;0-59;Rwanda Demographic and Health Survey (RDHS) 2019-2020, nationally representative household survey
+AA_59;Islam, Md. Merajul;2024;Bangladesh;inquerito populacional (DHS/MICS/nacional);7796;0-59 (mean 28.61 +/- 17.58);BDHS 2017-18 survey (nationally representative, two-stage stratified cluster sampling)
+AA_60;Shen;2023;Papua New Guinea;inquerito populacional (DHS/MICS/nacional);3380;"0-59 (under five; mean 29.73)";2016-2018 Papua New Guinea Demographic and Health Survey (PNG DHS), nationally representative
+AA_61;Ndagijimana;2023;Rwanda;inquerito populacional (DHS/MICS/nacional);3814;0-59;"RDHS 2019-2020 survey (nationally representative Rwanda Demographic and Health Survey; secondary data analysis)"
+AA_62;Chilyabanyama;2022;Zambia;inquerito populacional (DHS/MICS/nacional);6799;0-59;2018 Zambia Demographic and Health Survey (ZDHS), nationally representative household survey (accessed via IPUMS DHS)
+AA_63;Fayyaz;2024;USA;registro eletronico de saude (EHR);36191;"Input observation windows 0-24 to 0-84 months; predictions up to age 10 yrs";EHR (pediatric EHR, Nemours Children's Health / PEDSnet network, OMOP CDM, FHIR-based)

@@ -1,0 +1,45 @@
+﻿preditor;estudos;pct;antro_desfecho
+Child sex;29;78;False
+Child age;27;73;False
+Height or length;19;51;True
+Household wealth or income;14;38;False
+Region;14;38;False
+Weight;14;38;True
+Parental education;12;32;False
+Place of residence;11;30;False
+Birth weight;10;27;False
+Sanitation;10;27;False
+Water source;9;24;False
+Birth length or size;9;24;False
+Birth order or parity;8;22;False
+Breastfeeding;8;22;False
+Ethnicity or religion;7;19;False
+Occupation;6;16;False
+Body mass index;6;16;True
+Delivery;6;16;False
+Household size;6;16;False
+Diarrhoea;5;14;False
+Weight-for-age;5;14;True
+Twin status;4;11;False
+Micronutrient supplementation;4;11;False
+Weight-for-height;4;11;True
+MUAC;4;11;False
+Housing conditions;4;11;False
+Health insurance;4;11;False
+Diet and feeding;4;11;False
+Marital status;4;11;False
+Antenatal care;3;8;False
+Birth interval;3;8;False
+Anaemia;3;8;False
+Household assets;3;8;False
+Maternal age;3;8;False
+Gestational age;1;3;False
+Height-for-age;1;3;True
+Maternal education;1;3;False
+Fever;1;3;False
+Head circumference;1;3;False
+Parental occupation;1;3;False
+Paternal education;1;3;False
+Physical activity or sleep;1;3;False
+Smoking or alcohol;1;3;False
+Respiratory symptoms;1;3;False

@@ -1,0 +1,15 @@
+﻿Part;Domain;Low;High;Unclear;Low (%);High (%);Unclear (%)
+Model development;D1 participantes;14;13;10;37;34;26
+Model development;D2 preditores;11;7;19;29;18;50
+Model development;D3 desfecho;12;14;11;32;37;29
+Model development;D4 analise;0;32;5;0;84;13
+Model development;geral;0;36;1;0;95;3
+Model development;aplicabilidade;4;22;11;11;58;29
+Model evaluation;D1 participantes;18;10;9;47;26;24
+Model evaluation;D2 preditores;10;6;21;26;16;55
+Model evaluation;D3 desfecho;16;18;3;42;47;8
+Model evaluation;D4 aparente;3;10;3;8;26;8
+Model evaluation;D4 interna;2;33;1;5;87;3
+Model evaluation;D4 externa;0;0;1;0;0;3
+Model evaluation;geral;0;36;1;0;95;3
+Model evaluation;aplicabilidade;5;21;11;13;55;29

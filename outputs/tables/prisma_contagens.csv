@@ -1,0 +1,15 @@
+﻿coluna;caixa;n;fonte
+original;identificados;594;Scopus 285, PubMed 127, IEEE Xplore 129, BVS 53 (documento Estrategia de Busca, 05/08/2025)
+original;duplicatas removidas;127;"log 2.4; o manuscrito submetido registra 235, divergencia nao resolvida"
+original;triados;467;594 - 127
+original;excluidos na triagem;384;documento Estrategia de Busca
+original;texto completo avaliado;83;documento Estrategia de Busca
+original;excluidos no texto completo;20;"83 avaliados - 63 extraidos; desfecho ineligivel, faixa etaria indefinida, ausencia de modelagem preditiva"
+original;extraidos;63;extracao v3
+original;excluidos apos extracao;26;extracao v4: sem desfecho elegivel isolado, desfecho fora do escopo, coorte duplicada, desfecho composto sem dimensao antropometrica isolavel
+atualizada;identificados;600;Embase 240, Web of Science 360 (09/07/2026)
+atualizada;duplicatas entre as duas bases;166;DOI ou titulo normalizado
+atualizada;ja recuperados pela busca original;236;DOI ou titulo normalizado contra as exportacoes das quatro bases
+atualizada;ineditos a triar;198;lista em busca_atualizada_novos.csv
+final;estudos incluidos na revisao;37;base de extracao v7
+final;estudos com desfecho elegivel;37;stunting, overweight, obesity

@@ -1,0 +1,38 @@
+﻿preditor;combinacoes;antro_desfecho
+Age;9;False
+Sex;5;False
+Height or length;5;True
+Weight;5;True
+Household wealth;4;False
+Region;4;False
+Maternal education;3;False
+Maternal height;3;False
+Paternal education;3;False
+Fast-food intake;2;False
+Maternal BMI;2;False
+Birth weight;2;False
+MUAC;2;False
+Place of residence;2;False
+Body mass index;1;True
+Baby's age;1;False
+2-mus01 (musculoskeletal signs and sym;1;False
+1-all04 (asthma, pre-index visit);1;False
+Birth interval (months);1;False
+Birth length;1;False
+Child's size at birth;1;False
+Weight-for-height;1;True
+State (pooled effect of mexican states;1;False
+Place of delivery;1;False
+Ses (household socioeconomic status);1;False
+Race_3 (white race);1;False
+Height-for-age;1;True
+Household income;1;False
+Median home value;1;False
+Milk at lunch (late breakfast);1;False
+Father's height;1;False
+Consanguineous marriage;1;False
+Food consumption score (fcs);1;False
+Green leaves after dinner (late dinner;1;False
+Cereals at lunch (late breakfast);1;False
+Television ownership;1;False
+Vacant housing units;1;False

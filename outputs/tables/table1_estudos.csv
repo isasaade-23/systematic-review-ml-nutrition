@@ -1,0 +1,40 @@
+﻿First author;Year;Country;N;Age (months);Outcome;Best model;AUC;Accuracy;Model purpose;Risk of bias
+Pang;2021;United States;27,203;"0-84 (predictors from 0-24 months; outcome assessed >24 to 84 months)";Obesity;XGBoost (XGB);0.81;0.66;Prospective;High
+Rahman, S. M. Jubaidur;2021;Bangladesh;7,079;0-59;Stunting;Random Forest (RF);0.71;0.88;Diagnostic;High
+Zare;2021;United States;244,053;60-120;Obesity;Artificial neural network;0.79;0.87;Prospective;High
+Chilyabanyama;2022;Zambia;6,799;0-59;Stunting;Random Forest;NR;0.62;Diagnostic;High
+Hakimah;2022;Indonesia;288;0-60;Stunting;Support Vector Machine (SVM, RBF kernel);NR;0.84;Undetermined;High
+Ndagijimana;2023;Rwanda;3,814;0-59;Stunting;Gradient boosting;0.89;0.79;Diagnostic;High
+Sasmita;2023;Indonesia;114;0-60;Stunting;Random Forest + GWO feature selection (SA=50);NR;0.74;Diagnostic;High
+Shen;2023;Papua New Guinea;3,380;"0-59 (under five; mean 29.73)";Stunting;XGBoost;0.77;0.73;Diagnostic;High
+Alita;2024;Indonesia;121,000;0-60;Stunting;"Decision Tree (RapidMiner; gain ratio criterion, max depth 20, pruning confidence 0.1, min gain 0.01, min split 4, min leaf 2)";NR;0.83;Diagnostic;High
+Anku;2024;Ghana;8,564;0-59;Stunting;SVM;1.00;0.98;Diagnostic;High
+Berrouyne;2024;Morocco;5,983;0-59;Obesity;Support Vector Machines;0.67;0.97;Diagnostic;High
+Berrouyne;2024;Morocco;5,983;0-59;Overweight;Logistic Regression;0.62;0.89;Diagnostic;High
+Berrouyne;2024;Morocco;5,983;0-59;Stunting;Gradient Boosting;0.65;0.84;Diagnostic;High
+Campbell;2024;United States;9,554;24-216;Obesity;Logistic Regression;0.78;NR;Undetermined;High
+Erda;2024;Indonesia;86,365;0-59;Stunting;"Stacking Ensemble (base: Decision Tree, Random Forest, K-NN, XGBoost, Gradient Boosting; meta-learner: Random Forest)";NR;0.79;Diagnostic;High
+Fannany;2024;Indonesia;6,677;Not specified;Stunting;Random Forest;NR;0.98;Diagnostic;High
+Fayyaz;2024;United States;36,191;"Input observation windows 0-24 to 0-84 months; predictions up to age 10 yrs";Obesity;"LSTM encoder-decoder (deep learning; 2-layer LSTM encoder + feed-forward decoders per horizon)";NR;NR;Prospective;High
+Hariguna;2024;Indonesia;121,000;0-60;Stunting;CatBoost Classifier;1.00;0.95;Diagnostic;High
+Islam, Md. Merajul;2024;Bangladesh;7,796;0-59 (mean 28.61 +/- 17.58);Stunting;XGBoost;0.80;0.82;Diagnostic;High
+Janawisuta;2024;Indonesia;6,677;"NR (artigo diz apenas 'toddlers'/under-five; faixa etaria explicita nao reportada; exemplos da Table I: 2,4 a 58,4 meses)";Stunting;Random Forest;NR;1.00;Diagnostic;High
+Kani;2024;Indonesia;3,787;0-60;Stunting;Stacked RFKNN (stacking ensemble: RF + KNN base learners, RF meta-learner);NR;0.99;Diagnostic;High
+Kanz;2024;Indonesia;121,000;0-60;Stunting;Random Forest;NR;1.00;Diagnostic;High
+Khoirunnisa;2024;Indonesia;2,255;0-60;Stunting;Random Forest (100 estimators, gini, no depth limit, no bootstrap);NR;0.99;Diagnostic;High
+Kupek;2024;Brazil;6,801;84-132;Overweight/obesity;LASSO-logistic regression (lasso-selected MSFIs + control variables in multiple logistic regression);0.62;NR;Diagnostic;High
+Muhammad Ghiyaats Daffa;2024;Indonesia;6,677;"NR (amostra descrita apenas como 'toddlers'/criancas menores de 5 anos; nenhuma faixa etaria numerica e reportada no texto; o boxplot de Age na Fig. 2 tem eixo que vai de 0 a ~360 com unidade nao declarada, incompativel com 0-60 meses)";Stunting;"Boosted KNN (BK; ensemble of 100 KNNs with random odd k in 1-200, Random Forest-style voting)";NR;0.98;Diagnostic;High
+Prabiantissa;2024;Indonesia;415;0-60;Stunting;Artificial Neural Network (ANN, sigmoid activation, 200 iterations);NR;0.87;Diagnostic;High
+Pramana (A.A.G. Yogi Pramana);2024;Indonesia;752;0-60;Stunting;Bagging;NR;0.99;Diagnostic;High
+Shevaldo;2024;Indonesia;7,507;0-60;Stunting;Boosted K-Nearest Neighbor (AdaBoost + KNN, k=3);NR;0.99;Diagnostic;High
+Abdurrahman;2025;Indonesia;3,000;0-60;Stunting;XGBoost;NR;1.00;Diagnostic;High
+Ayele;2025;Ethiopia;18,451;0-59 (under five);Stunting;Random Forest;1.00;0.98;Diagnostic;High
+Azriani;2025;Indonesia;5,093;"24-35 (outcome assessed; predictors from newborn/birth period)";Stunting;k-Nearest Neighbor (kNN);0.91;0.85;Undetermined;High
+Chen (Kening Chen);2025;China;18,503;36-168;Obesity;Random Forest;0.85;NR;Diagnostic;High
+Chen (Kening Chen);2025;China;18,503;36-168;Overweight;Random Forest;0.81;NR;Diagnostic;High
+Elnanda;2025;Indonesia;8,835;"NR (participantes descritos apenas como 'toddlers'/children under five; faixa etaria explicita nao reportada)";Stunting;KNN;NR;0.99;Diagnostic;High
+Fogarty;2025;Mexico;20,803;0-59;Stunting;XGBoost;0.67;0.67;Diagnostic;High
+Mgomezulu;2025;Malawi;15,638;"0-59 (under-five children; exact months NR)";Stunting;Random Forest;1.00;1.00;Diagnostic;High
+Ndagijimana;2025;Rwanda;3,814;0-59;Stunting;Artificial Neural Network (MLP);0.84;0.72;Diagnostic;High
+Saleem;2025;Pakistan;4,141;0-59 (children under five);Stunting;Random Forest;NR;0.86;Diagnostic;Unclear
+Tamanna;2025;Bangladesh;7,910;0-59;Stunting;Random Forest;NR;0.64;Diagnostic;High

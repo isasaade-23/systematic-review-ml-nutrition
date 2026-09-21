@@ -1,0 +1,31 @@
+﻿secao;afirmacao;valor_manuscrito_atual;valor_novo_v7
+Abstract/Results;estudos incluidos;43 estudos / 47 combinacoes;37 estudos / 39 combinacoes elegiveis (38 estudos na base completa)
+Study characteristics;combinacoes de stunting;32/47;30/39 (77%)
+Study characteristics;combinacoes de obesity;9/47;6/39 (15%)
+Study characteristics;combinacoes de overweight;5/47;2/39 (5%)
+Study characteristics;combinacoes de overweight/obesity (combinado);0/47;1/39 (3%)
+Study characteristics;paises;15 countries;14 paises
+Study characteristics;Indonesia;23/47 (49%);"17/38 estudos (45%); 17/39 combinacoes (44%)"
+Study characteristics;pico de publicacao;26/47 (55%) em 2024;19/38 estudos (50%) em 2024
+Study characteristics;amostra;114 a 244.053 (mediana 6.677);"114 a 244053 (mediana 6801; 37/38 com N)"
+Study characteristics;Random Forest;16/47 (34%);"26/38 estudos (68%); melhor modelo em 15/39 combinacoes (38%); 48/241 linhas"
+Study characteristics;deep learning;two studies;3 estudos
+Predictive performance;AUC reportada;20/47 (43%);20/39 (51%)
+Predictive performance;AUC stunting;ver texto;"0.86 (IQR 0.75-1.00; n=12)"
+Predictive performance;Accuracy stunting;ver texto;"0.88 (IQR 0.80-0.99; n=30)"
+Predictive performance;AUC obesity;ver texto;"0.79 (IQR 0.78-0.81; n=5)"
+Predictive performance;Accuracy obesity;ver texto;"0.87 (IQR 0.77-0.92; n=3)"
+Predictive performance;AUC overweight;ver texto;"0.71 (IQR 0.67-0.76; n=2)"
+Predictive performance;Accuracy overweight;ver texto;"0.89 (IQR 0.89-0.89; n=1)"
+Predictive performance;AUC overweight/obesity (combinado);ver texto;"0.62 (IQR 0.62-0.62; n=1)"
+Predictive performance;Accuracy overweight/obesity (combinado);ver texto;NR
+Predictive performance;validacao externa;one study (2%);1 estudo(s): ['AA_63']
+Class imbalance;prevalencia reportavel;37/47 (79%);26/39 (67%)
+Class imbalance;prevalencia mediana;17.0% (IQR 7.3-35.4);27.7% (IQR 8.3-37.5)
+Predictor variables;antropometria do desfecho (definicao atual);22/47 (47%);22/39 (56%) [rerodar apos conferencia IVS]
+Predictor variables;contraste de accuracy;0.97 vs 0.85;0.98 vs 0.83 [rerodar apos conferencia IVS]
+Discussion;classificacao diagnostica vs predicao;nao classificado no texto;"33/39 combinacoes nowcasting (85%); prospectivas: 3"
+Risk of bias;PROBAST geral;37/38 (97%) High nas duas partes;"dev 36/38 High; eval 36/38 High"
+Methods/Limitations;auditoria da extracao;nao reportado no manuscrito;"38/38 estudos reauditados contra o PDF (24/08); 2 divergencias altas, 33 medias, 76 baixas; nenhum valor de desempenho em linha errada"
+Predictor variables;vazamento genuino;22/47 (47%) descritos como data leakage;"nenhum dos 3 modelos prospectivos apos auditoria: AA_31 e AA_50 usam antropometria anterior ao desfecho, com horizonte temporal; o restante e tautologia diagnostica em modelo transversal"
+Predictive performance;comparabilidade das metricas;nao ressalvado no manuscrito;precisao/recall/F1 sao macro-media ou media ponderada, e nao metrica da classe positiva, em parte dos estudos (ver auditoria_v7_temas.csv) — nao devem ser agrupados sem ressalva

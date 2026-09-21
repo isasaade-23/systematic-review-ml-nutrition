@@ -1,0 +1,40 @@
+﻿preditor;estudos;pct;antro_desfecho
+Height or length;19;86;True
+Child age;18;82;False
+Child sex;18;82;False
+Weight;14;64;True
+Birth length or size;7;32;False
+Birth weight;7;32;False
+Region;5;23;False
+Weight-for-age;5;23;True
+Micronutrient supplementation;4;18;False
+Sanitation;4;18;False
+Place of residence;4;18;False
+Body mass index;4;18;True
+Parental education;4;18;False
+Household wealth or income;4;18;False
+Ethnicity or religion;4;18;False
+MUAC;4;18;False
+Weight-for-height;4;18;True
+Water source;4;18;False
+Anaemia;3;14;False
+Breastfeeding;3;14;False
+Delivery;3;14;False
+Occupation;3;14;False
+Diarrhoea;3;14;False
+Antenatal care;2;9;False
+Birth order or parity;2;9;False
+Marital status;2;9;False
+Birth interval;1;5;False
+Gestational age;1;5;False
+Head circumference;1;5;False
+Diet and feeding;1;5;False
+Fever;1;5;False
+Housing conditions;1;5;False
+Household assets;1;5;False
+Height-for-age;1;5;True
+Health insurance;1;5;False
+Maternal education;1;5;False
+Twin status;1;5;False
+Respiratory symptoms;1;5;False
+Smoking or alcohol;1;5;False
