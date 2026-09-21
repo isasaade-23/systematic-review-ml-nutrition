@@ -60,7 +60,6 @@ This repository carries the extraction files, the consensus risk-of-bias assessm
 derived tables and figures. Working material of the review process, including per-assessor
 worksheets and internal reconciliation files, is not published here.
 
-`_archive_2025-12/` keeps the material of the original January submission, superseded by the
 files above and retained only for provenance.
 
 ## Citation
