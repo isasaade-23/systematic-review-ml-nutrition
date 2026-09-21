@@ -17,6 +17,18 @@ Both files retain AA_10 (Kar 2021), so they list 38 studies. That study was excl
 review because it contributes no eligible study-outcome combination, which is why the review
 reports 37.
 
+## Code
+
+| File | Content |
+|---|---|
+| `notebooks/01_demandas_revisores.ipynb` | Analysis of the corpus: units of analysis, descriptive synthesis, algorithms, performance by outcome, class imbalance and heterogeneity, model purpose and prediction horizon, PROBAST+AI by domain, verification against the source PDFs, updated search, and the adapted GRADE |
+| `notebooks/02_tables_figures_update.ipynb` | Produces Figure 4 and writes the final figures and the formatted tables |
+
+The notebooks are published as they were run, organised around the points raised in peer
+review, and they refer to the author's working paths on Google Drive. Cell outputs were cleared.
+They read the extraction files of `data/extraction/` and write the tables of `outputs/tables/`
+under the same names used in this repository.
+
 ## Derived results
 
 `outputs/tables/` holds the tables behind the numbers reported in the article.
